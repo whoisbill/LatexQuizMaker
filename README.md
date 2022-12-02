@@ -5,7 +5,7 @@ In order to format the questions correctly, you must follow these guidelines:
 - Spaces between questions
 - For example:
 
-* In which of the following locations would you likely expect to find terminal lymphatic capillaries?
+1. In which of the following locations would you likely expect to find terminal lymphatic capillaries?
     * Cartilage
     * Osseous Tissue
     * Bone Marrow
