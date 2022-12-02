@@ -11,6 +11,8 @@ In order to format the questions correctly, you must follow these guidelines:
     * Bone Marrow
     * Cornea
     * **None of the above**
+
+
 2. Which of the following statements is most accurate regarding the structure of lymphatic vessels?
     * Lymphatic vessels often possess a thick tunica externa layer
     * **The endothelium is with the tunica interna**
