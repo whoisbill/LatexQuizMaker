@@ -1,18 +1,19 @@
-## Getting Started
+## How to Format
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+In order to format the questions correctly, you must follow these guidelines:
+- Questions must be on one line, don't have enter or newlines between sentences.
+- Spaces between questions
+For example:
+In which of the following locations would you likely expect to find terminal lymphatic capillaries?
+Cartilage
+Osseous Tissue
+Bone Marrow
+Cornea
+None of the above
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Which of the following statements is most accurate regarding the structure of lymphatic vessels?
+Lymphatic vessels often possess a thick tunica externa layer
+The endothelium is with the tunica interna
+The tunica media solely contains smooth muscle
+Larger lymphatic vessels share a similar histology to major veins, for lymphatic vessels bud off from veins in the embryo
+The walls of lymphatic vessels are often thicker than veins
