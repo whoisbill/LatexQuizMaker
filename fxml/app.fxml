@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.SciolyController">
+   <children>
+      <Label alignment="CENTER" layoutX="486.0" layoutY="6.0" prefHeight="46.0" prefWidth="1000.0" text="Put in your raw text to turn it into latex" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <Button fx:id="button" alignment="CENTER" contentDisplay="CENTER" layoutX="425.0" layoutY="46.0" mnemonicParsing="false" onMouseClicked="#buttonPressed" prefWidth="149.0" text="Click to convert text" textAlignment="CENTER" />
+      <TextArea fx:id="rawText" layoutX="30.0" layoutY="166.0" prefHeight="200.0" prefWidth="602.0" promptText="Put raw text here" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" />
+      <TextArea fx:id="latexText" editable="false" layoutX="199.0" layoutY="383.0" prefHeight="230.0" prefWidth="940.0" AnchorPane.leftAnchor="30.0" AnchorPane.rightAnchor="30.0" />
+      <ImageView fitHeight="150.0" fitWidth="353.0" layoutX="30.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assets/formatting.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="385.0" layoutY="96.0" prefHeight="26.0" prefWidth="344.0" text="&lt;- format like this, with spaces between questions" />
+      <Label layoutX="376.0" layoutY="137.0" prefHeight="18.0" prefWidth="331.0" text="when it is copy pasted as raw text should look like this -&gt;" />
+      <ImageView fitHeight="150.0" fitWidth="292.0" layoutX="691.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assets/formatraw.PNG" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
