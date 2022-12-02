@@ -12,7 +12,8 @@ In order to format the questions correctly, you must follow these guidelines:
     * Cornea
     * **None of the above**
 
-&nbsp&nbsp&nbsp&nbsp
+&nbsp; &nbsp; &nbsp; &nbsp;
+
 
 2. Which of the following statements is most accurate regarding the structure of lymphatic vessels?
     * Lymphatic vessels often possess a thick tunica externa layer
